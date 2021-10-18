@@ -66,10 +66,10 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              name placeholder
+              droban
             </SocialLogo>
             <WebsiteRights>
-              name placeholder © {new Date().getFullYear()} All rights reserved.
+              droban © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">
