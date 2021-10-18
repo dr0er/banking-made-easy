@@ -26,7 +26,7 @@ export const homeObjTwo = {
   description:
     "We have you covered no matter where you are located. All you need is a device with internet connection.",
   buttonLabel: "Learn more",
-  imgStart: true,
+  imgStart: false,
   img: require("../../images/svg-2.svg"),
   alt: "Two",
   dark: false,
@@ -44,7 +44,7 @@ export const homeObjThree = {
   description:
     "Get everything set up and ready instantly. All you need to di is add your information and you're ready to go.",
   buttonLabel: "Start Now",
-  imgStart: true,
+  imgStart: false,
   img: require("../../images/svg-3.svg"),
   alt: "Three",
   dark: true,
