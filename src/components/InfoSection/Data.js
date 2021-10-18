@@ -36,9 +36,9 @@ export const homeObjTwo = {
 
 export const homeObjThree = {
   id: "signup",
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: "Premium Bank",
   headline: "Creating an account would take you less than 5 minutes!",
   description:
@@ -47,7 +47,7 @@ export const homeObjThree = {
   imgStart: false,
   img: require("../../images/svg-3.svg"),
   alt: "Three",
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
 };
