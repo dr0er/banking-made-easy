@@ -43,7 +43,7 @@ export const homeObjThree = {
   headline: "Creating an account would take you less than 5 minutes!",
   description:
     "Get everything set up and ready instantly. All you need to di is add your information and you're ready to go.",
-  buttonLabel: "Start Now",
+  buttonLabel: "Begin adventure",
   imgStart: false,
   img: require("../../images/svg-3.svg"),
   alt: "Three",
