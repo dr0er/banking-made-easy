@@ -42,7 +42,7 @@ export const homeObjThree = {
   topLine: "Premium Bank",
   headline: "Creating an account would take you less than 5 minutes!",
   description:
-    "Get everything set up and ready instantly. All you need to di is add your information and you're ready to go.",
+    "Get everything set up and ready instantly. All you need to do is add your information and you're ready to go.",
   buttonLabel: "Begin adventure",
   imgStart: false,
   img: require("../../images/svg-3.svg"),
