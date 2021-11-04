@@ -1,3 +1,5 @@
+# Link to live hosting https://banking-made-easy.netlify.app/
+
 ## 👨‍💻 `Run npm i`
 
 ## 🔊 `Project name:` banking-made-easy
