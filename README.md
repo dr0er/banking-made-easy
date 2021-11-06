@@ -4,6 +4,6 @@
 
 ## 🔊 `Project name:` banking-made-easy
 
-## 🔧 `Used technologies:` ReactJS, Styled Components, Axios
+## 🔧 `Used technologies:` ReactJS, Styled Components, Axios, React Router
 
 ## 👀 `Brief overview:` Simulation of bank website. Fully responsive project that contains front-end application interface and is ready to connect to back-end.
