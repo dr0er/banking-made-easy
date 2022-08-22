@@ -21,6 +21,7 @@ const Home = () => {
 
   return (
     <>
+      {/* checking sth  */}
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <Navbar toggle={toggle} />
       <HeroSection />
